@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding: 20px 0px;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__menu{
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+    list-style-type: none;
+}
+.header__item{
+    font-size: 20px;
+    color: #000;
+}

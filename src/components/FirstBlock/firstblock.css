@@ -1,0 +1,8 @@
+.dzsection{
+    padding: 10px;
+}
+.dzsection__text{
+    padding-left: 22px;
+    font-size: 12px;
+    color: black;
+}
